@@ -1,0 +1,1 @@
+[{"id": "cc55e9ad-c70e-4177-8931-445e4c92d9a7", "name": "auto_pk", "dataType": "integer", "primaryKeyIndex": 0, "size": 64}, {"id": "19d0a753-15d5-47f2-940c-1511773978cb", "name": "geom", "dataType": "geometry", "geometryType": "MULTILINESTRING", "geometryCRS": "EPSG:2193"}, {"id": "9ea0f2ba-a998-4fce-8fdb-6b13e07780c5", "name": "elevation", "dataType": "integer", "size": 32}]
